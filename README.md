@@ -1,5 +1,1 @@
-### [Hướng dẫn tạo website chúc mừng sinh nhật và upload lên host để gởi cho bạn bè || Part 2](https://)
-> Các bạn download source về và làm theo hương dẫn trong video nhé.
-
-
-![cover picture](./img/hpbd2021p2.jpg)
+Chúc mừng sinh nhật ĐK Phi Nam. Chúc tôi luôn vui vẻ , siêng năng cầu nguyện và đẹp lòng Thiên Chúa, Đức Mẹ và các Thánh.
